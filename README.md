@@ -3,7 +3,7 @@
 
 My name is Pedro Calcado Moreira, but you can call me by my first name **Pedro** or **Calcs**. I'm a former lawyer who has always had a passion for tecnologies, so after some time I've decided to start my studies on web software development. I'm currently learning web development.
 
-I've been working on both front-end and back-end projects using tools such as **Typescript**,**Node**,**React**,**Jest**,**SQL** and **NOSQL** .
+I've been working on both front-end and back-end projects using tools such as **Typescript**, **Node**, **React**, **Jest**, **SQL** and **NOSQL** .
 
 
 
