@@ -1,4 +1,4 @@
-## Hi There! 👋
+## Hi There! 😁:
 
 <p style="justify:center">
 My name is Pedro Calcado Moreira, but you can call me by my middlename name **Calcado**,my first name **Pedro** or my nickname**Calcs**. I'm a former lawyer who has always had a passion for tecnologies, so after some time I've decided to start my studies on web software development. I'm currently learning web development.
@@ -10,11 +10,10 @@ I've been working on both front-end and back-end projects using tools such as **
 ### Fun facts about me:
 <div style= "display: column">
   
-- I love studing history and new languages(I speak portuguese, english and spanish)  
-- I'm passionate about nature and animals  
-- I'm really into games   
-- I also love books and reading  
-- I really love coffee  
+- 📚 I love books , history and new languages(I speak portuguese, english and spanish) 🗺️  
+- 🌲 I'm passionate about nature and animals 🐶🐱 
+- ☕ I'm really into coffee & games 🎮  
+
   
 </div>
 
