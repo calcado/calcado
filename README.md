@@ -1,4 +1,4 @@
-## Hi There! 😁:
+## Hi There! 😁
 
 <p style="justify:center">
 My name is Pedro Calcado Moreira, but you can call me by my middlename name **Calcado**,my first name **Pedro** or my nickname**Calcs**. I'm a former lawyer who has always had a passion for tecnologies, so after some time I've decided to start my studies on web software development. I'm currently learning web development.
