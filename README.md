@@ -1,7 +1,7 @@
 ## Hi There! 😁
 
 
-My name is Pedro Calcado Moreira, but you can call me by my first name **Pedro** or **Calcs**. I'm software developer who has always had a passion for tecnologies, history and people. I'm currently learning web development for I'm looking forward to study and learn other fields of softwares. Also, I'm a former lawyer who decided to follow this old passion.
+My name is Pedro Calcado Moreira, but you can call me by my first name **Pedro** or **Calcs**. I'm software developer who has always had a passion for tecnologies  and people. I'm currently learning web development for I'm looking forward to study and learn other fields of softwares. Also, I'm a former lawyer who decided to follow this old passion.
 
 I've been working on both front-end and back-end projects using tools such as **Typescript**, **Node**, **React**, **Jest**, **SQL** and **NoSQL** .
 
